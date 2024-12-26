@@ -4,3 +4,7 @@ com.cts.controller
 com.cts.model
 com.cts.repository
 com.cts.service
+EmployeeController class
+EmployeeModel
+EmployeeRepository
+EmployeeService
