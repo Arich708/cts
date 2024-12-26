@@ -14,3 +14,7 @@ trainers payroll
 usning Mysql database
 mysql DBconnection
 mysql Config
+Student information
+student Model
+Student DAO
+Student repository
