@@ -14,3 +14,8 @@ trainers payroll
 usning Mysql database
 mysql DBconnection
 mysql Config
+Department information
+Deaprtment model class
+Department DAO
+departmentService class
+
